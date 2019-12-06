@@ -214,7 +214,7 @@ customer:
    url: dev.ci1.divisosofttech.com:8088
    
 order:
-   url: dev.ci2.divisosofttech.com:8088
+   url: 35.238.35.19:8088
    
 product: 
    url: dev.ci1.divisosofttech.com:8084
